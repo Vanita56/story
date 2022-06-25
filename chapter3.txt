@@ -1,0 +1,1 @@
+the very first block of block chain is called genessis block and it contains three elements called DATA HASH AND PREV HASH
